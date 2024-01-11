@@ -8,8 +8,8 @@ Birthday: December 1st.
 
 # Programming Experience
 
-I am currently under a CS course, I am planning to be a Software Engineer.
-I've learnt programming since I was 9 years old, and I have more than 6 years of experience.
+I am currently under a CS course, aswell as a Master Degree in Engineering.
+I have more than 6 years of experience.
 
 # Current Projects
 
